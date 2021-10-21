@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+*{
+    font-family: 'Poppins' !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: center;
+    background-color: #ececec;
+    font-style: italic;
+}
+.wrapper img{
+    height: 87vh;
+}
+
+.wrapper p{
+    height: 10vh;
+    opacity: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
